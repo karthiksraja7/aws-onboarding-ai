@@ -1,0 +1,10 @@
+streamlit
+boto3
+langchain
+langchain-openai
+langchain-community
+langchain-experimental
+faiss-cpu
+python-dotenv
+pandas
+tabulate
