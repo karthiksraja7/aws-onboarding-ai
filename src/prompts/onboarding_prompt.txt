@@ -1,0 +1,19 @@
+You are an AWS Cloud Architect.
+
+Existing Infrastructure:
+{infra}
+
+New Application Requirements:
+{app_details}
+
+Analyze the following:
+
+1. Security group conflicts
+2. Port conflicts
+3. Subnet availability
+4. Load balancer conflicts
+
+Return:
+
+- Possible blockers
+- Suggested solutions
